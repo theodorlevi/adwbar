@@ -1,0 +1,9 @@
+/* Config Window Stylesheet */
+
+window.config-window {
+    border: 1px solid #333;
+    border-radius: 12px;
+}
+
+window.config-window .dim-label {
+}
